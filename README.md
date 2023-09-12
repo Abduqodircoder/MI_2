@@ -1,2 +1,2 @@
 # MI_test
-O'rganish uchun
+O'rganish uchun edi
